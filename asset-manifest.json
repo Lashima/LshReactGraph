@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/LshReactGraph/static/css/main.c17bc185.chunk.css",
+    "main.js": "/LshReactGraph/static/js/main.8e4d831e.chunk.js",
+    "main.js.map": "/LshReactGraph/static/js/main.8e4d831e.chunk.js.map",
+    "runtime-main.js": "/LshReactGraph/static/js/runtime-main.d1a93256.js",
+    "runtime-main.js.map": "/LshReactGraph/static/js/runtime-main.d1a93256.js.map",
+    "static/css/2.0a5287ed.chunk.css": "/LshReactGraph/static/css/2.0a5287ed.chunk.css",
+    "static/js/2.f81fd722.chunk.js": "/LshReactGraph/static/js/2.f81fd722.chunk.js",
+    "static/js/2.f81fd722.chunk.js.map": "/LshReactGraph/static/js/2.f81fd722.chunk.js.map",
+    "index.html": "/LshReactGraph/index.html",
+    "precache-manifest.0d419546c31418c82c542a257a71a72f.js": "/LshReactGraph/precache-manifest.0d419546c31418c82c542a257a71a72f.js",
+    "service-worker.js": "/LshReactGraph/service-worker.js",
+    "static/css/2.0a5287ed.chunk.css.map": "/LshReactGraph/static/css/2.0a5287ed.chunk.css.map",
+    "static/css/main.c17bc185.chunk.css.map": "/LshReactGraph/static/css/main.c17bc185.chunk.css.map",
+    "static/js/2.f81fd722.chunk.js.LICENSE.txt": "/LshReactGraph/static/js/2.f81fd722.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1a93256.js",
+    "static/css/2.0a5287ed.chunk.css",
+    "static/js/2.f81fd722.chunk.js",
+    "static/css/main.c17bc185.chunk.css",
+    "static/js/main.8e4d831e.chunk.js"
+  ]
+}
